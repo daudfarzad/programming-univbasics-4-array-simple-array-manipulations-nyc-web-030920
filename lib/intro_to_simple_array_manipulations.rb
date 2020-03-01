@@ -5,3 +5,4 @@ def using_push(array, element)
   def using_unshift(array, element)
    new_array = array.unshift(element)
  end
+ 
